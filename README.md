@@ -47,7 +47,7 @@
 
 ###
 
-<h1 align="left" borderBottom=0>Passionate about AWS, Cloud Computing & Full-Stack Web Development</h1>
+<h1 align="left" style="border-bottom: none;">Passionate about AWS, Cloud Computing & Full-Stack Web Development</h1>
 
 
 
