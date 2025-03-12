@@ -29,11 +29,11 @@
 
 ###
 
-<h2 align="left">Passionate about AWS, Cloud Computing & Full-Stack Web Development</h2>
+<h1 align="left">Passionate about AWS, Cloud Computing & Full-Stack Web Development</h1>
 
-###
 
-<h5 align="left">I want building scalable web applications, exploring cloud technologies, and optimizing backend & frontend systems. Always eager to learn, innovate, and grow in the world of cloud and web development!</h5>
+
+<h3 align="left">I want building scalable web applications, exploring cloud technologies, and optimizing backend & frontend systems. Always eager to learn, innovate, and grow in the world of cloud and web development!</h3>
 
 ###
 
