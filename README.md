@@ -37,16 +37,16 @@
   
 </div>
 
-###
+<hr>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devanshu232004Rastogi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Devanshu232004Rastogi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+ <!-- <img src="https://github-readme-stats.vercel.app/api?username=Devanshu232004Rastogi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+ --> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Devanshu232004Rastogi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div> 
+<hr>
 
-###
 
-<img align="right" height="275" src="https://64.media.tumblr.com/cad6d25d7e859f91d586bc08b93d0680/b8987a5cdc34fed1-61/s540x810/d3d06e0239eebb8f582331f1cfde0b7eea6d1a21.gif"  />
+<img align="right" height="200" width=30% src="https://64.media.tumblr.com/cad6d25d7e859f91d586bc08b93d0680/b8987a5cdc34fed1-61/s540x810/d3d06e0239eebb8f582331f1cfde0b7eea6d1a21.gif"  />
 
 ###
 
