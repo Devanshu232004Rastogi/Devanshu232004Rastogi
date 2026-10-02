@@ -15,7 +15,6 @@
   <hr>
   <h3>Other Tools And Platforms</h3>
   <img src="https://miro.medium.com/v2/resize:fit:1150/format:webp/1*wXtyhpOL5NK_w39UvZpADQ.gif" height="150" width="150" alt="Docker" />
-  <img src="https://www.gifservice.fr/img/gif-vignette-large/72355c53f1c26258a7628548892f293d/49294-linux-computer-software-multi-media.gif" height="150" width="150" alt="Linux" />
   <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682361045048/796f4815-0594-4c35-99d9-65d3bfa4d53e.gif" height="150" width="150" alt="Kubernetes" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="150" width="150" alt="Git" />
   <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/VSCODE.gif" height="150" width="150" alt="VSCODE" />
